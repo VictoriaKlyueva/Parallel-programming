@@ -13,4 +13,4 @@ For paralysis, the following are used:
 - OpenMP
 - Vectorization
 
-The operating time for different technologies and image sizes is also measured. The results obtained are displayed on plots in file [a relative link](plots.png) 
+The operating time for different technologies and image sizes is also measured. The results obtained are displayed on plots in file [plots.png](plots.png) 
