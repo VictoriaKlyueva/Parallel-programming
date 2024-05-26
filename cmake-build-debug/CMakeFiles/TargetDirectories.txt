@@ -1,0 +1,3 @@
+C:/Users/Legion/CLionProjects/parallel/cmake-build-debug/CMakeFiles/parallel.dir
+C:/Users/Legion/CLionProjects/parallel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Legion/CLionProjects/parallel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
